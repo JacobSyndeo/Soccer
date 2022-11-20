@@ -1,6 +1,6 @@
 # Soccer ⚽️
 
-A small protocol and extension to help you use the Objective-C Runtime's Associated Objects[^1] system.
+A small protocol and extension to help you tap into the Objective-C Runtime's powerful Associated Objects[^1] system from within Swift.
 
 For example, suppose you wanted to extend UIAlertAction, and add a new property to it.
 
